@@ -1,0 +1,52 @@
+.logo {
+    background-image: url(images/bg-header.jpg);
+    background-color: deeppink;
+
+}
+.logo1 {
+    background-image: url(images/bg-header.jpg);
+    background-color: deeppink;
+}
+.top {
+    position: absolute;
+    padding-left: 320px;
+    padding-top: 42px;
+    width: 250px;
+}
+.one {
+    padding: 20px;
+    
+    background-image: url(images/pink.jpg);
+    background-size: 600px;
+    
+    
+}
+.two {
+    width: 600px;
+
+}
+.tp1 {
+    padding: 2px;
+}
+body {
+    text-decoration: grey;
+    font-size: initial;
+   
+}
+p {
+    text-align: justify;
+}
+.raza {
+    background-color: deeppink;
+}
+.btn:hover {
+    background-color: deeppink;
+}
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-color: red;
+}
